@@ -7,7 +7,7 @@
 - **Languages**: Python, Java
 
 ## 🔧 Featured Projects
-- [Infrastructure Automation with Terraform](https://github.com/Fajobi13/terraform-infra)
+- [Infrastructure Automation with Terraform](https://github.com/Fajobi13/advanced-3-tier-architecture-)
 - [CI/CD Pipeline with GitHub Actions](https://github.com/Fajobi13/ci-cd-pipeline)
 - [Monitoring Setup with Prometheus & Grafana](https://github.com/Fajobi13/monitoring-stack)
 
