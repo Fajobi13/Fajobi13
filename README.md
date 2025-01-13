@@ -11,4 +11,4 @@
 - [CI/CD Pipeline with GitHub Actions](https://github.com/Fajobi13/ci-cd-pipeline)
 - [Monitoring Setup with Prometheus & Grafana](https://github.com/Fajobi13/monitoring-stack)
 
-🌍 [Connect on LinkedIn](https://www.linkedin.com/in/Fajobi13/) | 📧 [Email Me](mailto:fajobi13@gmail.com)
+🌍 [Connect on LinkedIn](https://www.linkedin.com/in/Fajobi10/) | 📧 [Email Me](mailto:fajobi13@gmail.com) | 🌍 [website](https://www.agileautomator.com/)
